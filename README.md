@@ -10,8 +10,7 @@
   <img align = "center "alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div><br>
 
-
-[![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHSV)](https://github.com/GuilhermeHSV/github-readme-stats)
+[![Linguagens mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHSV&layout=donut-vertical)](https://github.com/GuilhermeHSV)
 
 
 
