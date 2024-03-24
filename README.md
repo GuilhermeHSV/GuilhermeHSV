@@ -1,10 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Guilherme+Vasconcellos;E+seja+Bem-vindo+ao+meu+perfil+do+Github!!!)](https://git.io/typing-svg)
-<div align="center">
+
   
 - E-mail: guivascon05@gmail.com
 - Formada em Técnico em Informática - Senac SP.
   Cursando Análise e Desenvolvimento de Sistemas - Senac SP.
-
+<div align="center">
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-vasconcellos-59982313b/)
 <a href = "mailto:guivascon05@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
