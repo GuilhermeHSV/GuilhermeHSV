@@ -2,7 +2,7 @@
 
   
 - E-mail: guivascon05@gmail.com
-- Formada em Técnico em Informática - Senac SP.
+- Formado em Técnico em Informática - Senac SP. <br>
   Cursando Análise e Desenvolvimento de Sistemas - Senac SP.
 <div align="center">
   
